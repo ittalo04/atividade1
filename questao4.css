@@ -1,0 +1,27 @@
+.imgfundo{
+    width: 1000px;
+    height: 1000px;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    background-image: url(https://img.freepik.com/fotos-gratis/fundo-de-ficcao-cientifica-futurista-moderno_35913-2152.jpg);
+    background-size: cover;
+}
+
+.caixa-branca{
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    padding: 20px;
+    background-color: white;
+
+}
+
+.caixa-preta{
+    width: 300px;
+    height: 300px;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: black;
+    margin-top: 100px;
+}
